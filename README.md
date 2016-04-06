@@ -1,6 +1,6 @@
 # Ricochet Cube
 
-Cube Ricochet permettant de jouer un son. Chaque face du cube (6 faces) représente une note du plus grave au plus aigue. Un cube peu être activée et gère les sons joués. 
+Cube Ricochet permettant de jouer un son. Chaque face du cube (6 faces) représente une note du plus grave au plus aigue. Un cube peu être activée et gère les sons joués.
 
 ## UML
 
@@ -29,7 +29,7 @@ Cube Ricochet permettant de jouer un son. Chaque face du cube (6 faces) représe
 
 
 #### Actionneurs
- 
+
 - **Module MP3 :** il permet de contrôler et stocker les sons.
 
 - **Haut-parleur :** il émet les sons contrôlé par le module MP3.
@@ -42,4 +42,3 @@ Cube Ricochet permettant de jouer un son. Chaque face du cube (6 faces) représe
 
 
 ## Fabrication
-
