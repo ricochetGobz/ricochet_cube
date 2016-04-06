@@ -6,7 +6,7 @@ Cube Ricochet permettant de jouer un son. Chaque face du cube (6 faces) représe
 
 
 
-<img alt="Ricochet communication schema" src="https://github.com/ricochetGobz/ricochet_cube/blob/master/ASSETS/Ricochet_cube-UML.png?raw=true">
+<img alt="Ricochet cube UML" src="https://github.com/ricochetGobz/ricochet_cube/blob/master/ASSETS/Ricochet_cube-UML.png?raw=true">
 
 ## Functionnalities
 
@@ -44,3 +44,15 @@ Cube Ricochet permettant de jouer un son. Chaque face du cube (6 faces) représe
 
 
 ## Fabrication
+
+*[FabLab cité des sciences](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=index)*
+
+First craft :
+
+- Découpe laser
+- Planche bois 5mm
+
+<img alt="Ricochet cube UML" src="https://pbs.twimg.com/media/CfWh9KuWIAES5ie.jpg">
+
+
+ 
